@@ -9,4 +9,4 @@ If you are on windows you can create a .bat file with the commands:
 .\main.exe  
 pause  
   
-So you can double click it.
+So you can double click to .bat file to run it.
