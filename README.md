@@ -1,4 +1,6 @@
 # episode_checker
+It checks whether there is a new episode for your TV-series
+
 I know the code sucks but it just works.
 
 You can compile the code using "go build main.go"
